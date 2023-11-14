@@ -1,13 +1,16 @@
 {
-  "name": "@lrnz09/prettier-config",
+  "name": "@bitetechnology/prettier-config",
   "version": "1.1.1",
-  "description": "My own Prettier config",
-  "homepage": "https://github.com/LRNZ09/prettier-config",
+  "description": "Bite Prettier config",
+  "homepage": "https://github.com/bitetechnology/prettier-config",
+  "bugs": {
+    "url": "https://github.com/bitetechnology/prettier-config/issues"
+  },
   "repository": {
     "type": "git",
-    "url": "LRNZ09/prettier-config"
+    "url": "bitetechnology/prettier-config"
   },
   "license": "MIT",
-  "author": "Lorenzo Pieri <email@lorenzopieri.dev>",
+  "author": "LRNZ09",
   "main": "index.js"
 }
